@@ -1,0 +1,2 @@
+# JavaPratik58_FiksturOlusturucu
+Fikstür Oluşturucu
